@@ -1,0 +1,7 @@
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\bin\Debug\RemoveDuplicatesUnitTestProject.dll
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\bin\Debug\RemoveDuplicatesUnitTestProject.pdb
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\bin\Debug\RemoveDuplicates.exe
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\bin\Debug\RemoveDuplicates.pdb
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\obj\Debug\RemoveDuplicatesUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\obj\Debug\RemoveDuplicatesUnitTestProject.dll
+C:\Users\Artak\Documents\Visual Studio 2013\Projects\RemoveDuplicates\RemoveDuplicatesUnitTestProject\obj\Debug\RemoveDuplicatesUnitTestProject.pdb

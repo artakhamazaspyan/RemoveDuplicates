@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{6A6120C7-664A-421C-A359-89E461E39693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesUnitTestProject", "RemoveDuplicatesUnitTestProject\RemoveDuplicatesUnitTestProject.csproj", "{38249E2C-D9D5-45FA-AC73-D116C76E5800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6120C7-664A-421C-A359-89E461E39693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6120C7-664A-421C-A359-89E461E39693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6120C7-664A-421C-A359-89E461E39693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6120C7-664A-421C-A359-89E461E39693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38249E2C-D9D5-45FA-AC73-D116C76E5800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38249E2C-D9D5-45FA-AC73-D116C76E5800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38249E2C-D9D5-45FA-AC73-D116C76E5800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38249E2C-D9D5-45FA-AC73-D116C76E5800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
